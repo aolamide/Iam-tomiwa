@@ -1,6 +1,6 @@
 <h1 align='center'>Hii there 👋🏾</h1>
 
-<p align='center'>My name is Tomiwa, and I'm a front-end developer who loves building beautiful user interfaces. I work with HTML, CSS, Javascript,Sass and I'm currently learning React</p>
+<p align='center'>My name is Tomiwa, and I'm a front-end developer who loves building beautiful user interfaces. I work with HTML, CSS, Javascript, Sass and I'm currently learning React</p>
 
 <p align='center'>Feel free to surf through my repos and check my work</p>
 
