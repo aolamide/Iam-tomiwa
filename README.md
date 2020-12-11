@@ -5,7 +5,7 @@
 <p align='center'>Feel free to surf through my repos and check my work</p>
 
 <p align='center'>
-<a href="https://wa.me/2348154050554?text=Hello Tomiwa I am..." target="_blank">
+<a href="https://wa.me/2348154050552?text=Hello Tomiwa I am..." target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/I_am_Ajayii" target="_blank">
