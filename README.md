@@ -21,7 +21,7 @@
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aolamide&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
+  <img src = "https://github-readme-stats-black-seven.vercel.app/api/top-langs/?username=aolamide&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
 </p>
 </p>
 
