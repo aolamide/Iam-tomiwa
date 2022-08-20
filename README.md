@@ -20,11 +20,11 @@
   <img src="https://gpvc.arturio.dev/aolamide" />
   
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
+  <img src = "https://github-readme-stats-black-seven.vercel.app/api?username=aolamide&show_icons=true&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
   <img src = "https://github-readme-stats-black-seven.vercel.app/api/top-langs/?username=aolamide&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
 </p>
 </p>
 
 <!-- https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=edc00e&text_color=efefed&icon_color=edc00e&bg_color=0b0b0c&line_height=27
 https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=e7be1a&text_color=efefed&icon_color=e7be1a&bg_color=0b0b0c&line_height=27
-https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=69e78b&text_color=efefed&icon_color=69e78b&bg_color=0b0b0c&line_height=27-->
+https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=69e78b&text_color=efefed&icon_color=69e78b&bg_color=0b0b0c&line_height=27 -->
