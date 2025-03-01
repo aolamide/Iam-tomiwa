@@ -1,6 +1,6 @@
 <h1 align='center'>Hii there 👋🏾</h1>
 
-<p align='center'>My name is Olamide, and I'm a full-stack Javascript developer and I love to build stuffs that work on the web. I work with HTML, CSS, Javascript (React, Node.js), MongoDB</p>
+<p align='center'>My name is Olamide, and I'm a sofware engineer skilled in TypeScript, PHP (Laravel, Yii, Phalcon, Magento), Node.js, NestJS, Express, MySQL, MongoDB, Docker, Kubernetes</p>
 
 <p align='center'>Feel free to surf through my repos and check my work</p>
 
